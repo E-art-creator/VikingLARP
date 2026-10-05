@@ -1,4 +1,4 @@
-# VikingLARP Use Cases
+# VikingLARP Use Cases 1 & 2
 
 | Use Case Section | Comment |
 |-|-| 
