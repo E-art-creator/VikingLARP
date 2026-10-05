@@ -22,3 +22,15 @@ Stakeholders and interests:
 - Administrationen: Få styr på regenskabet 
 Preconditions: Revisoren skal have adgang til systemet.
 Success Guarantee or Postcondition: Der sker ingen ændring i systemet.
+
+---
+
+**Use Case UC2**: Bestem salgsmoms
+Scope: Viking Larp - få styr på regenskabet 
+Level: User goal 
+Primary actor: Revisor 
+Stakeholders and interests: 
+- Revisor: ønsker at bestemme salgsmoms for et bestemt produktnummer. 
+- Administrationen: Få styr på regenskabet 
+Preconditions: Revisoren skal have adgang til systemet.
+Success Guarantee or Postcondition: Der sker ingen ændring i systemet.
