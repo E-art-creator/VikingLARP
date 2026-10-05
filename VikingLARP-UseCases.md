@@ -1,15 +1,17 @@
 # VikingLARP Use Cases
 
-|Use Case Name|
-|Scope|
-|Level|
-|Primary Actor|
-|Stakeholders and Interests|
-|Preconditions|
-|Success Guarantee|
-|Main Success Scenario|
-|Extensions|
-|Special Requirements|
+| Use Case Section | comment |
+|-|-| 
+| Use Case Name | Start with a verb |
+| Scope | The system under design |
+| Level | “user-goal” or “subfunction” |
+| Primary Actor | Calls on the system to deliver its services |
+| Stakeholders and Interests | Who cares about this use case, and what do they want? |
+| Preconditions | What must be true on start, and worth telling the reader? | 
+| Success Guarantee | abc |
+| Main Success Scenario | A typical, unconditional happy path scenario of success. |
+| Extensions | Alternate scenarios of success or failure. |
+| Special Requirements | Related non-functional requirements. |
 
 **Use Case UC1**: Bestem købsmoms
 Scope: Viking Larp - få styr på regenskabet 
