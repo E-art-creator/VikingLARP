@@ -3,6 +3,7 @@ class Aaa {
     -bbb : int
     +ccc : string
     #aa : float
+    -ddd : string 
     +void addEntry(mmm : Entry)
     +int setFactory(ddd : string)
 }
