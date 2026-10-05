@@ -1,6 +1,6 @@
 # VikingLARP Use Cases
 
-| Use Case Section | comment |
+| Use Case Section | Comment |
 |-|-| 
 | Use Case Name | Start with a verb |
 | Scope | The system under design |
